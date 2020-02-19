@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.Greeting;
+import com.example.demo.dto.Greeting;
 import com.example.demo.job.NicJob;
 import org.quartz.*;
 import org.slf4j.Logger;
